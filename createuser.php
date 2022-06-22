@@ -90,7 +90,7 @@
                             <input type="reset" value="Reset" name="reset" class="btn btn-outline-danger btn-lg">
                         </div>
                         <div>
-                            <a href="banking.php#container_main"><button class="btn btn-info btn-lg" type="button">Back to Home</button></a>
+                            <a href="index.php#container_main"><button class="btn btn-info btn-lg" type="button">Back to Home</button></a>
                         </div>
                     </div>
                 </form>
