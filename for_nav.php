@@ -40,7 +40,7 @@
 <body>
     <nav>
         <div class="logo_txt">
-            <h1><a href="banking.php">Basic Banking system</a></h1>
+            <h1><a href="index.php">Basic Banking system</a></h1>
         </div>
     </nav>
 </body>
