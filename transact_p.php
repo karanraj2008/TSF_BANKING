@@ -287,7 +287,7 @@
 
         <div class="text-center">
             <a href="transaction.php"><button class="btn btn-outline-secondary btn-lg">Back</button></a>&nbsp;
-            <a href="banking.php#container_main"><button class="btn btn-info btn-lg">Home</button></a>
+            <a href="index.php#container_main"><button class="btn btn-info btn-lg">Home</button></a>
         </div>
 
 
