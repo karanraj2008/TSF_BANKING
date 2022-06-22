@@ -101,7 +101,7 @@
             </div>
             <div class="crt_user">
                 <a href="transaction.php"><button type="button" class="btn btn-outline-secondary btn-lg">Make a Transaction</button></a>
-                <a href="banking.php#container_main"><button type="button" class="btn btn-info btn-lg">Home</button></a>
+                <a href="index.php#container_main"><button type="button" class="btn btn-info btn-lg">Home</button></a>
             </div>
         </div>
 
