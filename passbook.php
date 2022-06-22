@@ -154,7 +154,7 @@
         <div class="text-center mb-3">
             <button class="btn btn-outline-primary btn-lg" onclick="printt()">Print</button>&nbsp;
             <a href="transaction.php"><button class="btn btn-outline-secondary btn-lg">Back</button></a>&nbsp;
-            <a href="banking.php#container_main"><button class="btn btn-info btn-lg">Home</button></a>
+            <a href="index.php#container_main"><button class="btn btn-info btn-lg">Home</button></a>
         </div>
     </header>
 
